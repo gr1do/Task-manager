@@ -1,1 +1,1 @@
-# Task-manager
+Для запуска приложения (Ani-Task), необходимо скачать zip папку, и запустить TaskManager.exe
